@@ -7,7 +7,7 @@ A potential description of changes in acoustic activity during a day or a week c
 
 ## Two protocols
 
- - **PROTOCOLE_1_SM4**
+### **PROTOCOLE_1_SM4**
 
 *Effects of artificial light ("light pollution") emitted by the villages of the Park on biodiversity at night.*
 
@@ -23,7 +23,7 @@ A potential description of changes in acoustic activity during a day or a week c
 
 In order to observe **the effects at night**, but also to describe **the effects of changing soundscape between night and day**.
 
- - **PROTOCOLE_2_AUDIOMOTH**
+### **PROTOCOLE_2_AUDIOMOTH**
 
 *Effects of land use on biodiversity, linked to artificial light.*
 
