@@ -14,3 +14,4 @@ SelectTime:End="3000" Start="2460"
 Silence:Use_Preset="<Factory Defaults>"
 SelectTime:End="3600" Start="3060"
 Silence:Use_Preset="<Factory Defaults>"
+CollapseAllTracks:
