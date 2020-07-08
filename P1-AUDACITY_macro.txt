@@ -1,4 +1,4 @@
-#Audacity macro : We want to get 6 parts of 1 minute on our 59 minutes audio files
+#PROTOCOLE-1 - Audacity macro : We want to get 6 parts of 1 minute on our 59 minutes audio files
 #copy and paste this code into a text file then save this file in %AppData%\Roaming\audacity\Macros
 
 SelectTracks:Mode="Set" TrackCount="100"
