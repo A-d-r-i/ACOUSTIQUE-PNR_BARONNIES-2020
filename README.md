@@ -1,7 +1,7 @@
 # ACOUSTIQUE-PNR_BARONNIES-2020
 Master 2 study : effect of artificial light and land use on biodiversity
 
-With two different sampling protocols, we want to study **the effects of artificial light and land use on biodiversity at night** in the *Parc Naturel Régional des Baronnies provençales* (France, 26 - 05).
+With two different sampling protocols, we want to study **the effects of artificial light and land use on biodiversity at night** in the *Parc Naturel Régional des Baronnies provençales* (France, *26* - *05*).
 
 A potential description of changes in acoustic activity during a day or a week cannot be excluded.
 
