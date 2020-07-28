@@ -1,0 +1,4 @@
+Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)
+  If UCase(Target) = "x" Then Target = "" Else Target = "x"
+  Cancel = True
+End Sub
