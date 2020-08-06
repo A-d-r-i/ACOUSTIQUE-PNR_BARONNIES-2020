@@ -1,16 +1,13 @@
 Sub DUPLICATION()
-    With Sheets("NOM")
+    With Sheets("SHEET1")
         dl = .Cells(Rows.Count, 1).End(xlUp).Row
-        Set ws = Sheets("DUPLI")
+        Set ws = Sheets("SHEET2")
+        NB = 6
         k = 1
         For i = 1 To dl
-            .Cells(i, 1).Copy ws.Cells(k, 1).Resize(6)
-            k = k +
+            .Cells(i, 1).Copy ws.Cells(k, 1).Resize(NB)
+            k = k + NB
         Next i
     End With
 End Sub
-#créer une croix au double clic
-Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)
-  If UCase(Target) = "x" Then Target = "" Else Target = "x"
-  Cancel = True
-End Sub
+
